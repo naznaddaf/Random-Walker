@@ -2,7 +2,7 @@ let posX;
 let posY;
 let positionsX = [];
 let positionsY = [];
-let radius = 5;
+let radius = 6;
 
 
 function setup (){
